@@ -1,0 +1,7 @@
+C:\Users\asus pc\RiderProjects\consoleApplications\consoleApplications\bin\Debug\consoleApplications.exe
+C:\Users\asus pc\RiderProjects\consoleApplications\consoleApplications\bin\Debug\consoleApplications.pdb
+C:\Users\asus pc\RiderProjects\consoleApplications\consoleApplications\obj\Debug\consoleApplications.csproj.AssemblyReference.cache
+C:\Users\asus pc\RiderProjects\consoleApplications\consoleApplications\obj\Debug\consoleApplications.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus pc\RiderProjects\consoleApplications\consoleApplications\obj\Debug\consoleApplications.csproj.CoreCompileInputs.cache
+C:\Users\asus pc\RiderProjects\consoleApplications\consoleApplications\obj\Debug\consoleApplications.exe
+C:\Users\asus pc\RiderProjects\consoleApplications\consoleApplications\obj\Debug\consoleApplications.pdb
